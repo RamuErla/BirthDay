@@ -1,0 +1,83 @@
+.img
+{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    padding: 80px;
+    position: relative;
+    /* transform: rotate(180deg); */
+    /* transition-duration: 1s;
+    transition-delay: 1s; */
+}
+body
+{
+    background-size: contain;
+ 
+ /* background-image: url('https://static.toiimg.com/photo/77257051.cms');*/
+   background-image: url(https://marketplace.canva.com/EAFTSJngfN8/2/0/1600w/canva-yellow-colorful-party-birthday-zoom-virtual-background-U7MikkMZPRI.jpg);
+
+} 
+.iframe
+{
+ margin-left: 800px;
+ position: fixed;
+}
+.img1
+{
+    opacity: 0.4;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    position: fixed;
+    margin-left: 25%;
+    margin-right: 30%;
+    margin-bottom: 40%;
+    transition-duration: 1s;
+    transition-delay: 1s;
+}
+.img1:hover
+{
+    width: 200px;
+    height: 200px;
+    transform: rotate(360deg);
+    transition-duration: 1s;
+    transition-delay: 1s;
+}
+#h1{
+    height: 500px;
+    width: 500px;
+}
+#h3
+{
+    height: 500px;
+    width: 500px;
+    float: none;
+    color: aqua;
+}
+#h4
+{
+    height: 100px;
+    width: 300px;
+}
+ 
+.lorem800{
+    width: 300px;
+    margin-left: 550px;
+}
+.img{
+    height: 40%;
+    width: 40%;
+    float: right;
+}
+.column {
+    float: none;
+    width: 33.33%;
+    padding: 5px;
+  }
+  
+/* .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  } */
